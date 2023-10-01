@@ -7,7 +7,7 @@ const App = () => {
 //code here 
   const toggleClass =()=>{
       if(classn === "redColor"){
-        setClass(blueColor);
+        setClass('blueColor');
       }
       else setClass("redColor");
   }
